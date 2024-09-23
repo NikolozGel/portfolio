@@ -1,0 +1,91 @@
+{
+  "position": "Front-End Developer",
+  "personalInfo": "Hi, I am Nikoloz Gelenidze, 25 years old from Tbilisi, Georgia. I can confidently say that I am a highly motivated and goal-oriented individual who consistently strives to achieve his objectives every single day. With an unwavering dedication, I actively pursue my goals, ensuring that I remain focused and determined on the path to success. To provide tangible evidence of my dedication, I am proud to share that I have achieved this level of proficiency within a few short months. I invite you to explore my comprehensive portfolio and skills, which will undoubtedly paint a vivid picture of my capabilities.",
+  "proffesionalInfo": "As a Software developer I am constantly striving to improve my skills and learn new technologies.  I stepped into this big Tech world 2 years ago and I found myself very flexible and adaptive to learning new things. At the moment I am a Co-founder/Lecturer/Mentor at AlgoUni and Full-Stack Developer at Tetrobyte.",
+  "techStacks": [
+    "React",
+    "Javascript",
+    "Typescript",
+    "Next",
+    "Tailwind CSS",
+    "Styled Components",
+    "Node",
+    "Rest API",
+    "Ant Design",
+    "GraphQL"
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "logo": "/assets/skills/html.png"
+    },
+    {
+      "name": "CSS",
+      "logo": "/assets/skills/css-3.png"
+    },
+    {
+      "name": "Tailwind CSS",
+      "logo": "/assets/skills/tailwind.png"
+    },
+    {
+      "name": "React",
+      "logo": "/assets/skills/reactLogo.png"
+    },
+    {
+      "name": "Styled Components",
+      "logo": "/assets/skills/styled-components.png"
+    },
+    {
+      "name": "Javascript",
+      "logo": "/assets/skills/js.png"
+    },
+    {
+      "name": "Typescript",
+      "logo": "/assets/skills/typescript.png"
+    },
+    {
+      "name": "Next",
+      "logo": "/assets/skills/next.svg"
+    },
+    {
+      "name": "Node",
+      "logo": "/assets/skills/node.png"
+    },
+    {
+      "name": "MongoDB",
+      "logo": "/assets/skills/mongo.webp"
+    },
+    {
+      "name": "Git",
+      "logo": "/assets/skills/git.png"
+    },
+    {
+      "name": "Rest API",
+      "logo": "/assets/skills/icons8-rest-api-96.png"
+    },
+    {
+      "name": "Ant Design",
+      "logo": "/assets/skills/antd.png"
+    },
+    {
+      "name": "GraphQL",
+      "logo": "/assets/skills/graphql.png"
+    }
+  ],
+  "social": [
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/NikolozGG"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/nikushagelenidze/"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/nikoloz-gelenidze-61978925a/"
+    }
+  ],
+  "projects": [
+  ]
+}
